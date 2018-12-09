@@ -1,7 +1,5 @@
-elipapa.github.io
+dgmato.github.io
 =================
-
-my personal website, not that i really needed one.
 
 Uses [jekyll](http://jekyllrb.com/), [poole](http://getpoole.com/) and the [hyde](http://andhyde.com/) theme.
 
