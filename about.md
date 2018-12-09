@@ -4,9 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-Trained as a biomedical engineer, computational biologist and doctor.
-
-Working as a data scientist at [Open Targets][], where we use machine learning and software engineering to help find new drugs, taking advantage of human genetics and other biological data.
+PhD Student in Biomedical Engineering at Universidad Carlos III de Madrid
 
 ## Expertise
 * Computational biology
@@ -17,8 +15,6 @@ Working as a data scientist at [Open Targets][], where we use machine learning a
 * immunology
 * drug development
 * software project management
-
-![]({{ site.url }}/assets/images/workshape.png)
 
 
 ## Computing stack
@@ -32,9 +28,3 @@ Working as a data scientist at [Open Targets][], where we use machine learning a
 * ETL - Luigi, Airflow
 * Backends - Elasticsearch, sqlite 
 * Familiar with agile and test-driven development. CI/CD/DevOps
-
-Contributor to open source projects: 
-- [Open Targets][]
-- [kubernetes][]
-- [luigi][]
-
